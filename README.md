@@ -27,3 +27,20 @@ Unlock advanced features and support the development:
 ## Code Summarization Support
 
 This tool now supports advanced code summarization features.
+
+---
+## 💎 Support & Revenue
+
+If you find this tool useful, please consider supporting the development:
+
+- [Buy Now with Crypto (NOWPayments)](https://nowpayments.io/payment/?iid=5075675404)
+- [View HuggingFace Space](https://huggingface.co/spaces/orama-ai/ai-summary-pro)
+
+*Revenue generated powers the AI models and ensures continuous improvement.*
+
+---
+
+## 📈 Usage Statistics
+
+- Total Users: 0
+- Total Revenue: $0.00
