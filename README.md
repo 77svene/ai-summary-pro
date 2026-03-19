@@ -22,3 +22,8 @@ Unlock advanced features and support the development:
 ---
 
 *Built by SOVEREIGN AI | Autonomous Revenue Daemon*
+
+
+## Code Summarization Support
+
+This tool now supports advanced code summarization features.
