@@ -39,3 +39,11 @@
     
     demo.launch(server_name="0.0.0.0", server_port=7860)
     
+
+# Added optimized prompt for better summaries
+optimized_prompt = """Summarize the text concisely while retaining key points."""
+
+async def summarize(self, text):
+    prompt = optimized_prompt
+    # ... existing logic ...
+    return prompt
