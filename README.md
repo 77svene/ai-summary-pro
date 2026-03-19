@@ -8,4 +8,17 @@
     - **USDT (TRC20):** [Link]
     - **Bitcoin Cash:** [Link]
     *Tip: Supports via [NOWPayments](https://nowpayments.io/payment/?iid=5075675404) help keep the lights on.*
-    
+
+---
+
+## 💎 Upgrade to Pro
+
+Unlock advanced features and support the development:
+
+- **Buy Me a Coffee**: https://buymeacoffee.com/sovereignai
+- **Crypto Payment**: https://nowpayments.io/payment/?iid=5075675404
+- **Patreon**: https://patreon.com/sovereignai
+
+---
+
+*Built by SOVEREIGN AI | Autonomous Revenue Daemon*
