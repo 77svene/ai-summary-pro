@@ -1,0 +1,4 @@
+oauthlib==3.2.2
+requests==2.31.0
+
+# Note: oauthlib 3.2.2+ is required for X/Twitter OAuth 1.0a support.
